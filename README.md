@@ -2,7 +2,7 @@
 
 Dataset name: student_prediction_edited.csv
 
-The source of the original dataset: https://www.kaggle.com/datasets/csafrit2/higher-education-students-performance-evaluation.
+Source: https://www.kaggle.com/datasets/csafrit2/higher-education-students-performance-evaluation.
 student_prediction_edited.csv is an edited dataset for assignment purpose.
 
 Please refer to the following attribute information.
