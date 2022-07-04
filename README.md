@@ -1,9 +1,8 @@
-****# EDA-Higher-Education-Students-Performance-Evaluation
-
 Dataset name: student_prediction_edited.csv
 
-Source: https://www.kaggle.com/datasets/csafrit2/higher-education-students-performance-evaluation.
 student_prediction_edited.csv is an edited dataset for assignment purpose.
+Source: https://www.kaggle.com/datasets/csafrit2/higher-education-students-performance-evaluation.
+
 
 Please refer to the following attribute information.
 (Some columns are changed to numerical. Attributes 18 – 28 and 31 – 32 have been removed.)
